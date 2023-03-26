@@ -1,6 +1,8 @@
 # weather-cli
 Simple CLI weather app
 
+![Иллюстрация к проекту](preview.png)
+
 - Get token from https://openweathermap.org/
 - npm i -g weather-cli
 - Set token with -t [API_KEY]
